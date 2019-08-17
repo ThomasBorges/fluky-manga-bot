@@ -19,6 +19,8 @@
 
 [**MangaFox**](https://ww2.mangafox.online/) thanks for most of the mangas pages used in this project.
 
+Thanks too to the people who helped me at a [**Twitch's stream**](https://www.twitch.tv/videos/468394170) to figure out the issues with the code.
+
 ## Contact
 
 If you have any questions, something went wrong or just want to talk, feel free contact me at [**Twitter**](https://twitter.com/gabrigodes).
